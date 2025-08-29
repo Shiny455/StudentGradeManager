@@ -4,5 +4,4 @@ It is a single `Java` file and can be compiled and run from the command line.
 
 
 ## Sample Output
-![Student Grade Report Screenshot]
-(sampleScreenshot(4).jpg)
+![Student Grade Report Screenshot](sampleScreenshot(4).jpg)
